@@ -1,5 +1,2 @@
 # Code-Tech Internship
-# Task 1
-Task 2
-Task 3
-Task 4
+## [Task 1](https://github.com/Keviinn1755/Code-Tech-Assignment/tree/Task-1)
